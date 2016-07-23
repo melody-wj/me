@@ -165,6 +165,9 @@ imput {
   padding-left: 15px;
   padding-right: 15px;
 }
+.cols-xs-hid{
+  display: none;
+}
 @media screen and (min-width:768px) {
   .tone, .ttwo, .tthree, .tfore {
     font-size: 2em;
