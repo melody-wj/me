@@ -701,3 +701,6 @@ border: 1px solid #555555;}
 	url('fonts/iconfont.ttf') format('truetype'), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
 	url('fonts/iconfont.svg#iconfont') format('svg'); /* iOS 4.1- */
 }
+.title:before,.title:after{
+	background: #a0a0a0;
+}
